@@ -1,0 +1,1 @@
+$('.truncat').trunc(72);
