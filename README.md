@@ -7,4 +7,5 @@
 - when you call the function `trunk()`, specify the number of allowed characters (as example: 72);
 
 ####How works
-In the project you have to create a `div` with the desired text. 
+In the project you have to create a `div` with the desired text. The plugin replaces your element, creating a `<p>`. You can change the 
+styles in this section, or leave as is.
